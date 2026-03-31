@@ -1,6 +1,8 @@
 ## Hi there 👋
 
-## My Tec Stack
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Montserrat+&size=16&pause=1000&color=7A7979&center=true&vCenter=true&width=435&lines=REPROGRAMMING...;MAKING+LAST+TOUCH+UPS...;NOW+LOADING...)](https://git.io/typing-svg)
+
+#### My Tech Stack
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white&logoSize=10)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white)
@@ -22,6 +24,11 @@
 
 ![Claude](https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=claude&logoColor=white)
 
+---
+
+<div align="center">
+<sub>Reprogramming....</sub>
+</div>
 <!--
 **OmegaCryo/OmegaCryo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -35,4 +42,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+  -->
