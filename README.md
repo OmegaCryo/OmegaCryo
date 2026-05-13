@@ -1,6 +1,6 @@
-## Hi there 👋
-
 <div align="center">
+
+<span style="color:grey; font-weight:bold;">OMEGACYRO</span>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Montserrat+&size=16&pause=1000&color=7A7979&center=true&vCenter=true&width=435&lines=REPROGRAMMING...;MAKING+LAST+TOUCH+UPS...;NOW+LOADING...)](https://git.io/typing-svg)
 
