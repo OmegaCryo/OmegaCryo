@@ -14,12 +14,19 @@
 
 <p align="center">
 <img src="https://img.shields.io/badge/html5-%23000000.svg?style=for-the-badge&logo=html5&logoColor=white">
+
 <img src="https://img.shields.io/badge/css-%23000000.svg?style=for-the-badge&logo=css&logoColor=white">
+<img src="https://img.shields.io/badge/javascript-%23000000.svg?style=for-the-badge&logo=javascript&logoColor=white">
 <img src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white">
+
 </p>
 <h3 align="center">Statistics</h3>
 
 ---
 
-[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=OmegaCryo&include_all_commits=true&theme=dark)](https://github-stats-extended.vercel.app/api?username=OmegaCryo&include_all_commits=true&theme=dark)
+<div>
+
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/wakatime?username=OmegaCryo&langs_count=6&theme=dark)](https://wakatime.com/@OmegaCryo)
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=OmegaCryo&theme=dark&ring=EBEBEB&fire=EBEBEB&currStreakLabel=EBEBEB" alt="GitHub Streak" /></a>
+
+</div>
