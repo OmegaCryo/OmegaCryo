@@ -8,11 +8,12 @@
 
 ---
 
-<div style="overflow: auto";>
+<div>
 <img align="right" src="images/nightstars.jpg" width="250" height="250">
 
 Hello, I'm OmegaCryo, also known as OmegaGlalie.
 I love coding, especially Front End Web Development (HTML5, CSS, and JavaScript). I have been coding since 2002, and I'm still not an expert on it. I also like playing video games in my spare time.
+<br clear="both">
 
 </div>
 
