@@ -8,7 +8,7 @@
 
 ---
 
-<div>
+<div style="overflow: auto";>
 <img align="right" src="images/nightstars.jpg" width="250" height="250">
 
 Hello, I'm OmegaCryo, also known as OmegaGlalie.
@@ -22,7 +22,6 @@ I love coding, especially Front End Web Development (HTML5, CSS, and JavaScript)
 
 <p align="center">
 <img src="https://img.shields.io/badge/html5-%23000000.svg?style=for-the-badge&logo=html5&logoColor=white">
-
 <img src="https://img.shields.io/badge/css-%23000000.svg?style=for-the-badge&logo=css&logoColor=white">
 <img src="https://img.shields.io/badge/javascript-%23000000.svg?style=for-the-badge&logo=javascript&logoColor=white">
 <img src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white">
