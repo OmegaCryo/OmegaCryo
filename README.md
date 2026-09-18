@@ -8,6 +8,18 @@
 
 ---
 
+<table>
+<tr>
+<td valign="top">
+<p> Hello, I'm OmegaCryo, also known as OmegaGlalie. 
+I love coding, especially Front End Web Development (HTML5, CSS, and JavaScript). I have been coding since 2002, and I'm still not an expert on it. I also like playing video games in my spare time. </p>
+</td>
+<td valign="top">
+<img src="images/nightstars.jpg" width="100%">
+</td>
+</tr>
+</table>
+
 <h3 align="center"> Technologies</h3>
 
 ---
@@ -24,7 +36,7 @@
 
 ---
 
-<div>
+<div align="center">
 
 [![GitHub Stats](https://github-stats-extended.vercel.app/api/wakatime?username=OmegaCryo&langs_count=6&theme=dark)](https://wakatime.com/@OmegaCryo)
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=OmegaCryo&theme=dark&ring=EBEBEB&fire=EBEBEB&currStreakLabel=EBEBEB" alt="GitHub Streak" /></a>
