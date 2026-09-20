@@ -1,3 +1,5 @@
+<h2 align="center">Hi, I'm OmegaCryo</h2>
+
 <p align="center">
 <a href="https://github.com/OmegaCryo"> <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"></a>
 <a href="https://www.youtube.com/@omegaglalie"><img src="https://img.shields.io/badge/YouTube-%23000000.svg?style=for-the-badge&logo=YouTube&logoColor=white"></a>
