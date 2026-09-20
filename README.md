@@ -44,6 +44,6 @@ I love coding, especially Front End Web Development (HTML5, CSS, and JavaScript)
 <div align="center">
 
 [![GitHub Stats](https://github-stats-extended.vercel.app/api/wakatime?username=OmegaCryo&langs_count=6&theme=dark)](https://wakatime.com/@OmegaCryo)
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=OmegaCryo&theme=dark&ring=EBEBEB&fire=EBEBEB&currStreakLabel=EBEBEB" alt="GitHub Streak" /></a>
+[![GitHub Streak](https://streak-stats.demolab.com?user=OmegaCryo&theme=dark&ring=EBEBEB&fire=EBEBEB&currStreakLabel=EBEBEB)](https://git.io/streak-stats)
 
 </div>
